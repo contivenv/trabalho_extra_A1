@@ -1,7 +1,6 @@
 # trabalho_extra_A1
 # Descrição do trabalho
 
-"""
 Em um mundo cada vez mais dinâmico, organizar as tarefas do dia a dia é essencial para garantir
 produtividade e eficiência. Imagine que você foi contratado para desenvolver uma ferramenta
 pessoal de gerenciamento de tarefas que permita a qualquer usuário cadastrar atividades,
@@ -65,4 +64,3 @@ Organização, clareza do código e uso de boas
 práticas
 
 2,0 pontos
-"""
