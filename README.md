@@ -1,4 +1,3 @@
-# trabalho_extra_A1
 # Descrição do trabalho
 
 Em um mundo cada vez mais dinâmico, organizar as tarefas do dia a dia é essencial para garantir
