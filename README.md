@@ -43,23 +43,16 @@ Entregáveis
 Critérios de Avaliação
 
 Critério Peso
-Implementação correta da classe e métodos 2,0 pontos
-Funcionalidades de adicionar, listar e concluir
-tarefas funcionando
+Implementação correta da classe e métodos - 2,0 pontos
 
-2,0 pontos
+Funcionalidades de adicionar, listar e concluir
+tarefas funcionando - 2,0 pontos
 
 Uso correto de arquivos para salvar/carregar
-dados
-
-2,0 pontos
+dados - 2,0 pontos
 
 Aplicação adequada de tratamento de
-exceções
-
-2,0 pontos
+exceções - 2,0 pontos
 
 Organização, clareza do código e uso de boas
-práticas
-
-2,0 pontos
+práticas - 2,0 pontos
