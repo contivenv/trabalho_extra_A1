@@ -40,7 +40,7 @@ Entregáveis
 • Um exemplo do arquivo de tarefas gerado (.txt, .csv ou .json)
 
 
-Critérios de Avaliação
+## Critérios de Avaliação
 
 Critério Peso
 Implementação correta da classe e métodos - 2,0 pontos
